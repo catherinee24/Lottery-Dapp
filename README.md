@@ -85,12 +85,6 @@ $ npm install
 <br>
 
 <p align="center">
-<a href="www.linkedin.com/in/Web3-developer-catherine-mendes/" target="_blank" >
-  <img alt="Linkedin - Catherine.M" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
-</a>
-<a href="catherinemendez24@gmail.com" target="_blank" >
-  <img alt="Email - Catherine.M" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
-</a> 
 <br/>
   Made with ❤️ by <b>catellaTech</b>.
 </p>
