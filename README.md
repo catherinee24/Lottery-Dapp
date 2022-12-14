@@ -39,7 +39,7 @@ To test the project you only need to have your Metamask wallet with fake BNB tha
 
 ```bash
 # Clone this project
-$ git clone https://github.com/gab0071/lottery
+$ git clone https://https://github.com/catherinee24/Lottery-Dapp
 
 # Access
 $ cd lottery
