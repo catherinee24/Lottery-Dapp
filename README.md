@@ -42,7 +42,7 @@ To test the project you only need to have your Metamask wallet with fake BNB tha
 $ git clone https://https://github.com/catherinee24/Lottery-Dapp
 
 # Access
-$ cd lottery
+$ cd Lottery-Dapp
 
 # Install dependencies
 $ npm install
